@@ -17,7 +17,7 @@ Control of these tasks will be done on github
 
 - :clap: correção de erros no css
 - :writing_hand: organização da formatação
--  :heavy_check_mark: mudança na animação do layout
+- :heavy_check_mark: mudança na animação do layout
 
 
 
