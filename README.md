@@ -8,10 +8,10 @@ Control of these tasks will be done on github
 
 ## Icons
 
-- :packge: New functionality
+- :package: New functionality
 - :up: Update
-- :beetle: bug fix
-- :checkred_flag: Release
+- :trollface: bug fix
+- :love_letter: Release
 
 
 
